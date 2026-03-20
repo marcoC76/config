@@ -4,6 +4,8 @@
   "students_url": "https://raw.githubusercontent.com/aulaPass/aulaPass.github.io/refs/heads/main/csvjson.json",
   "teacher_pin": "Qzc2MjAyNg==",
   "consulta_pin": "Qzc2Q09OU1VMVEE=",
+  "encoder_pin": "Qzc2RU5DT0RFUg==",
+  "profesores": [
   "profesores": [
     { "value": "caballero_eduardo_nava", "text": "Caballero Eduardo Nava" },
     { "value": "david_martinez_martinez", "text": "David Martinez Martinez" },
