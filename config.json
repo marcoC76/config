@@ -5,6 +5,7 @@
   "teacher_pin": "Qzc2MjAyNg==",
   "consulta_pin": "Qzc2Q09OU1VMVEE=",
   "encoder_pin": "Qzc2RU5DT0RFUg==",
+  "qr_version": "1",
   "profesores": [
     { "value": "caballero_eduardo_nava", "text": "Caballero Eduardo Nava" },
     { "value": "david_martinez_martinez", "text": "David Martinez Martinez" },
