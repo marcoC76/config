@@ -14,6 +14,7 @@
     { "value": "maria_guadalupe_lizaola_diaz", "text": "María Guadalupe Lizaola Díaz" },
     { "value": "maria_lina_olvera_jimenez", "text": "María Lina Olvera Jiménez" },
     { "value": "sierra_griselda_gonzalez", "text": "Sierra Griselda González" },
+    { "value": "silva_magaña_miguel_atl", "text": "Silva Magaña Miguel Atl" },
     { "value": "marco_antonio_perez_fajardo", "text": "Marco Antonio Pérez Fajardo" }
   ],
   "materias": [
@@ -21,6 +22,8 @@
     { "value": "conciencia_historica_2", "text": "Conciencia Histórica 2" },
     { "value": "conciencia_historica_3", "text": "Conciencia historica 3" },
     { "value": "cultura_digital_ii", "text": "Cultura Digital II" },
+    { "value": "reacciones_quimicas", "text": "Reacciones Quimicas" },
+    { "value": "interac_naturaleza", "text": "Interacciones Naturaleza" },
     { "value": "pensamiento_matematico_ii", "text": "Pensamiento Matematico II" },
     { "value": "identifica_factores_de_exposicion_y_materiales_para_la_obtencion_de_imagenes", "text": "Identifica factores de exposición y materiales para la obtención de imágenes." },
     { "value": "lengua_y_comunicacion_ii", "text": "Lengua y Comunicación II" },
