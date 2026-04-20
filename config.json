@@ -17,6 +17,7 @@
     { "value": "silva_magaña_miguel_atl", "text": "Silva Magaña Miguel Atl" },
     { "value": "orozco_colin_asuncion", "text": "Orozco Colin Asuncion" },
     { "value": "jaimes_canales_diana_guadalupe", "text": "Jaimes Canles Diana Guadalupe" },
+    { "value": "vazquez_perez_jose_salomon", "text": "Vazquez Perez jose Salomon" },
     { "value": "marco_antonio_perez_fajardo", "text": "Marco Antonio Pérez Fajardo" }
   ],
   "materias": [
@@ -33,6 +34,7 @@
     { "value": "reacciones_quimicas", "text": "Reacciones Quimicas" },
     { "value": "realiza_procedimientos_pre_trans_post_operatorios_adulto_hospitalizado", "text": "Realiza Procedimientos Pre, Trans y Post Operatorios Adulto Hospitalizado" },
     { "value": "temas_selectos_de_matematicas_lll", "text": "Temas selectos de matemáticas lll" },
+    { "value": "temas_selectos_de_matematicas_l", "text": "Temas selectos de matemáticas l" },
     { "value": "tutoria", "text": "Tutoria" },
     { "value": "tutoria_2", "text": "Tutoría 2" },
     { "value": "tutoria_4", "text": "Tutoría 4" },
