@@ -6,44 +6,116 @@
   "consulta_pin": "Qzc2Q09OU1VMVEE=",
   "encoder_pin": "Qzc2RU5DT0RFUg==",
   "qr_version": "1",
-  "profesores": [
-    { "value": "caballero_eduardo_nava", "text": "Caballero Eduardo Nava" },
-    { "value": "david_martinez_martinez", "text": "David Martinez Martinez" },
-    { "value": "felipe_donaldo_reyes_hernandez", "text": "Felipe Donaldo Reyes Hernandez" },
-    { "value": "israel_baruc_lopez_fernandez", "text": "Israel Baruc Lopez Fernandez" },
-    { "value": "maria_guadalupe_lizaola_diaz", "text": "María Guadalupe Lizaola Díaz" },
-    { "value": "maria_lina_olvera_jimenez", "text": "María Lina Olvera Jiménez" },
-    { "value": "sierra_griselda_gonzalez", "text": "Sierra Griselda González" },
-    { "value": "silva_magaña_miguel_atl", "text": "Silva Magaña Miguel Atl" },
-    { "value": "orozco_colin_asuncion", "text": "Orozco Colin Asuncion" },
-    { "value": "jaimes_canales_diana_guadalupe", "text": "Jaimes Canles Diana Guadalupe" },
-    { "value": "vazquez_perez_jose_salomon", "text": "Vazquez Perez jose Salomon" },
-    { "value": "marco_antonio_perez_fajardo", "text": "Marco Antonio Pérez Fajardo" }
+ "profesores": [
+    {
+      "value": "diana_guadalupe_jaimes_canales",
+      "text": "Diana Guadalupe Jaimes Canales"
+    },
+    {
+      "value": "maria_lina_olvera_jimenez",
+      "text": "María Lina Olvera Jiménez "
+    },
+    {
+      "value": "rogelio_isai_herrera_peralta",
+      "text": "Rogelio Isai Herrera Peralta "
+    },
+    {
+      "value": "israel_baruc_lopez_fernandez",
+      "text": "Israel Baruc López Fernández"
+    },
+    {
+      "value": "miguel_atl_silva_magana",
+      "text": "Miguel Atl Silva Magaña"
+    },
+    {
+      "value": "felipe_donaldo_reyes_hernandez",
+      "text": "Felipe Donaldo Reyes Hernández "
+    },
+    {
+      "value": "eduardo_nava_caballero",
+      "text": "Eduardo Nava Caballero"
+    },
+    {
+      "value": "ana_lilia_gonzalez_olvera",
+      "text": "Ana Lilia González Olvera "
+    },
+    {
+      "value": "asuncion_orozco_colin",
+      "text": "Asunción Orozco Colin "
+    },
+    {
+      "value": "david_martinez_martinez",
+      "text": "David Martinez Martinez "
+    },
+    {
+      "value": "marco_antonio_perez_fajardo",
+      "text": "Marco Antonio Pérez Fajardo"
+    }
   ],
   "materias": [
-    { "value": "conciencia_historica_1", "text": "Conciencia Histórica 1" },
-    { "value": "conciencia_historica_2", "text": "Conciencia Histórica 2" },
-    { "value": "conciencia_historica_3", "text": "Conciencia historica 3" },
-    { "value": "cultura_digital_ii", "text": "Cultura Digital II" },
-    { "value": "interac_naturaleza", "text": "Interacciones Naturaleza" },
-    { "value": "identifica_factores_de_exposicion_y_materiales_para_la_obtencion_de_imagenes", "text": "Identifica factores de exposición y materiales para la obtención de imágenes." },
-    { "value": "lengua_y_comunicacion_ii", "text": "Lengua y Comunicación II" },
-    { "value": "organismos_estructuras_y_procesos", "text": "Organismos: estructuras y procesos" },
-    { "value": "pensamiento_matematico_ii", "text": "Pensamiento Matematico II" },
-    { "value": "radioterapia", "text": "RADIOTERAPIA" },
-    { "value": "reacciones_quimicas", "text": "Reacciones Quimicas" },
-    { "value": "realiza_procedimientos_pre_trans_post_operatorios_adulto_hospitalizado", "text": "Realiza Procedimientos Pre, Trans y Post Operatorios Adulto Hospitalizado" },
-    { "value": "temas_selectos_de_matematicas_lll", "text": "Temas selectos de matemáticas lll" },
-    { "value": "temas_selectos_de_matematicas_l", "text": "Temas selectos de matemáticas l" },
-    { "value": "tutoria", "text": "Tutoria" },
-    { "value": "tutoria_2", "text": "Tutoría 2" },
-    { "value": "tutoria_4", "text": "Tutoría 4" },
-    { "value": "tutoria_6", "text": "Tutoría 6" },
-    { "value": "prueba_ii", "text": "Prueba 2" }
+    {
+      "value": "cuidado_de_la_mujer_en_el_embarazado_parto_y_puerperio",
+      "text": "Cuidado de la mujer en el embarazado parto y puerperio"
+    },
+    {
+      "value": "cuidado_del_nino_sano_y_enfermo",
+      "text": "Cuidado del niño sano y enfermo"
+    },
+    {
+      "value": "lengua_y_comunicacion_iii",
+      "text": "Lengua y Comunicación III "
+    },
+    {
+      "value": "ingles_5",
+      "text": "Ingles 5 "
+    },
+    {
+      "value": "temas_selectos_de_matematicas_2",
+      "text": "Temas selectos de matemáticas 2"
+    },
+    {
+      "value": "pensamiento_matematico_i",
+      "text": "Pensamiento Matemático I"
+    },
+    {
+      "value": "temas_selectos_de_matematicas_ii",
+      "text": "Temas selectos de matemáticas II"
+    },
+    {
+      "value": "aplica_conceptos_de_anatomia",
+      "text": "Aplica Conceptos de Anatomía "
+    },
+    {
+      "value": "propedeutico_anatomia",
+      "text": "Propedéutico Anatomia"
+    },
+    {
+      "value": "humanidades_1",
+      "text": "Humanidades 1"
+    },
+    {
+      "value": "patologia_y_farmacologia",
+      "text": "Patología y farmacologia"
+    },
+    {
+      "value": "procedimientos_de_baja_y_mediana_compleji",
+      "text": "Procedimientos de baja y mediana compleji"
+    },
+    {
+      "value": "cneyt_iii",
+      "text": "CNEyT III"
+    },
+    {
+      "value": "habilidades_socio_emocionales",
+      "text": "Habilidades socio emocionales "
+    },
+    {
+      "value": "mod_2_subm_2_produce_imagenes_de_estudios_simples",
+      "text": "Mod.2 subm. 2. Produce imágenes de estudios simples "
+    }
   ],
-  "parciales": [
-    { "id": "1", "nombre": "Parcial 1", "inicio": "2026-02-03", "fin": "2026-03-14" },
-    { "id": "2", "nombre": "Parcial 2", "inicio": "2026-03-23", "fin": "2026-05-12" },
-    { "id": "3", "nombre": "Parcial 3", "inicio": "2026-05-18", "fin": "2026-06-17" }
+    "parciales": [
+    { "id": "1", "nombre": "Parcial 1", "inicio": "2026-09-01", "fin": "2026-10-08" },
+    { "id": "2", "nombre": "Parcial 2", "inicio": "2026-10-08", "fin": "2027-01-01" }
   ]
 }
