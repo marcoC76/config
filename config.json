@@ -6,7 +6,7 @@
   "consulta_pin": "Qzc2Q09OU1VMVEE=",
   "encoder_pin": "Qzc2RU5DT0RFUg==",
   "qr_version": "2",
- "profesores": [
+  "profesores": [
     {
       "value": "diana_guadalupe_jaimes_canales",
       "text": "Diana Guadalupe Jaimes Canales"
@@ -46,6 +46,10 @@
     {
       "value": "david_martinez_martinez",
       "text": "David Martinez Martinez "
+    },
+    {
+      "value": "esmeralda_munoz_farfan",
+      "text": "Esmeralda Muñoz Farfán "
     },
     {
       "value": "marco_antonio_perez_fajardo",
@@ -118,6 +122,10 @@
       "text": "Cultura Digital 1"
     },
     {
+      "value": "pensamiento_filosofico_y_humanidades_ii",
+      "text": "Pensamiento filósofico y humanidades II"
+    },
+    {
       "value": "tutoria_1",
       "text": "Tutoria 1"
     },
@@ -130,8 +138,18 @@
       "text": "Tutoria 5"
     }
   ],
-    "parciales": [
-    { "id": "1", "nombre": "Parcial 1", "inicio": "2026-09-01", "fin": "2026-10-08" },
-    { "id": "2", "nombre": "Parcial 2", "inicio": "2026-10-08", "fin": "2027-01-01" }
+  "parciales": [
+    {
+      "id": "1",
+      "nombre": "Parcial 1",
+      "inicio": "2026-09-01",
+      "fin": "2026-10-08"
+    },
+    {
+      "id": "2",
+      "nombre": "Parcial 2",
+      "inicio": "2026-10-08",
+      "fin": "2027-01-01"
+    }
   ]
 }
